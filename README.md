@@ -57,12 +57,3 @@ Data-source used here is [WeatherApi](https://www.weatherapi.com/)
 - Figma-designed layout integrated seamlessly into Power BI visuals.
 - Optimized for clarity, accessibility, and real-time insights.
 
----
-
-## 🧪 Future Enhancements (Optional Ideas)
-
-- Add hourly forecast view.
-- Enable geolocation to auto-fetch weather for user’s location.
-- Integrate historical weather trend comparison.
-
----
